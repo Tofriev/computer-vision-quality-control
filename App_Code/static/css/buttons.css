@@ -1,0 +1,14 @@
+button {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 12px 20px; /* Some padding */
+    border: none; /* Remove border */
+    cursor: pointer; /* Add a pointer cursor on hover */
+    width: 100%; /* Full width buttons */
+    font-size: 16px; /* Increase font size */
+    border-radius: 5px; /* Add rounded corners */
+}
+
+button:hover {
+    background-color: #3e8e41; /* Add a hover effect */
+}
